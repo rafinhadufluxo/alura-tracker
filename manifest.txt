@@ -1,0 +1,14 @@
+Aula realizada no alura
+ 
+- Uso da framework bulma.
+- Uso de awesome icons (npm i --save-dev @fortawesome/fontawesome-free).
+
+
+
+
+
+## anotation personal
+
+- Para criar tema dark pode ser feito em css e tanto js. Para mais informações, ler este
+artigo (https://dev.to/tqbit/create-your-own-dark-mode-toggle-component-with-vue-js-1284)
+- 
